@@ -1,0 +1,9 @@
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\bin\Debug\Goods.txt
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\bin\Debug\Goods.xml
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\bin\Debug\KML Expressions Test.exe
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\bin\Debug\KML Expressions Test.pdb
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\bin\Debug\Kml.dll
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\bin\Debug\Kml.pdb
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\obj\x86\Debug\KML Expressions Test.exe
+J:\arturas-kalonline-coding\KalMarkupLanguage\KML Expressions Test\obj\x86\Debug\KML Expressions Test.pdb

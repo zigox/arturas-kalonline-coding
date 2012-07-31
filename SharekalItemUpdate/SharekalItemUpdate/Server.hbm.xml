@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="SharekalItemUpdate.Server, SharekalItemUpdate" table="Servers">
+    <id name="SID" column="SID" length="11">
+      <generator class="assigned" />
+    </id>
+    <property name="Name" column="Name" type="String" length="50" />
+    <property name="IP" column="IP" type="String" length="50" />
+    <property name="Port" column="Port" type="Int32" />
+    <property name="kal_db" column="kal_db" type="String" length="50" />
+    <property name="Closed" column="Closed" type="Int32" />
+    <property name="Default" column="[Default]" type="Int32" />
+  </class>
+</hibernate-mapping>

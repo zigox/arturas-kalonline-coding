@@ -1,0 +1,88 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\bin\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\bin\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\bin\Debug\testproject.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\bin\Debug\KOCE.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\bin\Debug\KOCE.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KOCE\obj\x86\Debug\KOCE.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\bin\Debug\testproject.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\bin\Debug\KOCE.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\bin\Debug\KOCE.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\bin\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\bin\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KOCE\obj\x86\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\obj\x86\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\obj\x86\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\defaultproject.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\KOCE.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\KOCE.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.AboutBox.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditVariableForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditVariablesForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditBuildGroupForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditEventForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditBuildGroupsForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditEditorForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditFolderForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.EditFoldersForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\obj\x86\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\Bootstrap\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\Bootstrap\DDay.Update.WinForms.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\Bootstrap\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\KOCE\bin\Debug\Bootstrap\KOCE.exe
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.exe
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.pdb
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\defaultproject.xml
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\KOCE.exe.manifest
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\KOCE.application
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\KOCE.exe
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\KOCE.pdb
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\DDay.Update.dll
+J:\arturas-kalonline-coding\KOCE\KOCE\bin\Debug\DDay.Update.WPF.dll
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.AboutBox.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditVariableForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditVariablesForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditBuildGroupForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditEventForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditBuildGroupsForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditEditorForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditFolderForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.EditFoldersForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.MainForm.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.Properties.Resources.resources
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.TrustInfo.xml
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.exe.manifest
+J:\arturas-kalonline-coding\KOCE\KOCE\obj\x86\Debug\KOCE.application

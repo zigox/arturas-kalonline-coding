@@ -1,0 +1,30 @@
+﻿<classmaps>
+  <classmap class="KmlObjectMappingTest.GoodsItem, KML Expressions Test">
+    <node>
+      <value type="System.Int32">Value1</value>
+      <value type="System.Int32">Value2</value>
+      <value type="System.Int32">Value3</value>
+    </node>
+  </classmap>
+  <classmap class="KmlObjectMappingTest.Goods, KML Expressions Test">
+    <node>
+      <value>goods</value>
+      <node>
+        <value>index</value>
+        <value type="System.Int32">Index</value>
+      </node>
+      <node>
+        <value>use</value>
+        <value type="System.Boolean">Use</value>
+      </node>
+      <node>
+        <value>goodstype</value>
+        <value type="KmlObjectMappingTest.GoodsType, KML Expressions Test">GoodsType</value>
+      </node>
+      <node>
+        <value>item</value>
+        <node listtype="KmlObjectMappingTest.GoodsItem, KML Expressions Test">Items</node>
+      </node>
+    </node>
+  </classmap>
+</classmaps>

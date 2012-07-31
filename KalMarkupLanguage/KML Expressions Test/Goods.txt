@@ -1,0 +1,6 @@
+﻿; �Ϲ�
+(goods (index 1) (goodstype edible) (use 1) (item (469 0 1)))	; ������ ��(1.3��)-1��
+(goods (index 2) (goodstype nonedible) (use 0) (item (470 0 1)))	; ������ ��(1.3��)-7��
+(goods (index 3) (goodstype edible) (use 0) (item (471 0 1)))	; ������ ��(1.3��)-15��
+(goods (index 4) (item (472 0 1)))	; ������ ��(1.3��)-30��
+(goods (index 5) (item (473 0 1)))	; ������ ��(20%)-1��

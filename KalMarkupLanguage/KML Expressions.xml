@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node>
+  <rv>monster</rv>
+  <onnc>
+    <rvnc>name</rvnc>
+    <rvc>name_id</rvc>
+  </onnc>
+  <rnnc>
+    <rvnc>index</rvnc>
+    <rvc>index</rvc>
+  </rnnc>
+  <rnnc>
+    <rvnc>drops</rvnc>
+    <rnc key="drops">
+      <rnnc>
+        <rvc>drop_id</rvc>
+        <rvc>drop_value</rvc>
+      </rnnc>
+    </rnc>
+  </rnnc>
+</node>

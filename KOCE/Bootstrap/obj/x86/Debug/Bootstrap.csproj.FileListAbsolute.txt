@@ -1,0 +1,24 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\obj\x86\Debug\Bootstrap.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\DDay.Update.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\DDay.Update.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\KOCE.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\KOCE.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\obj\x86\Debug\KOCE.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\obj\x86\Debug\KOCE.pdb
+J:\arturas-kalonline-coding\KOCE\Bootstrap\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KOCE\Bootstrap\obj\x86\Debug\Bootstrap.Properties.Resources.resources
+J:\arturas-kalonline-coding\KOCE\Bootstrap\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\KOCE\Bootstrap\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KOCE\Bootstrap\obj\x86\Debug\KOCE.exe
+J:\arturas-kalonline-coding\KOCE\Bootstrap\obj\x86\Debug\KOCE.pdb
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\KOCE.exe.config
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\KOCE.exe
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\KOCE.pdb
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\DDay.Update.pdb
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\DDay.Update.WPF.pdb

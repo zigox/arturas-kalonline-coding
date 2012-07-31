@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2010\Projects\KalOnlineConfigs\KalOnlineConfigs\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\KalOnlineConfigs\KalOnlineConfigs\bin\Debug\KalOnlineConfigs.dll
+c:\users\admin\documents\visual studio 2010\Projects\KalOnlineConfigs\KalOnlineConfigs\bin\Debug\KalOnlineConfigs.pdb
+c:\users\admin\documents\visual studio 2010\Projects\KalOnlineConfigs\KalOnlineConfigs\obj\Debug\KalOnlineConfigs.dll
+c:\users\admin\documents\visual studio 2010\Projects\KalOnlineConfigs\KalOnlineConfigs\obj\Debug\KalOnlineConfigs.pdb
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\bin\Debug\KalOnlineConfigs.dll
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\bin\Debug\KalOnlineConfigs.pdb
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\obj\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\obj\Debug\KalOnlineConfigs.dll
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\obj\Debug\KalOnlineConfigs.pdb
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\bin\Debug\Kml.dll
+J:\arturas-kalonline-coding\KalOnlineConfigs\KalOnlineConfigs\bin\Debug\Kml.pdb

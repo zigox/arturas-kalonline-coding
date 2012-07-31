@@ -1,0 +1,5 @@
+J:\arturas-kalonline-coding\KalMarkupLanguage\Kml\bin\Debug\Kml.dll
+J:\arturas-kalonline-coding\KalMarkupLanguage\Kml\bin\Debug\Kml.pdb
+J:\arturas-kalonline-coding\KalMarkupLanguage\Kml\obj\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KalMarkupLanguage\Kml\obj\Debug\Kml.dll
+J:\arturas-kalonline-coding\KalMarkupLanguage\Kml\obj\Debug\Kml.pdb

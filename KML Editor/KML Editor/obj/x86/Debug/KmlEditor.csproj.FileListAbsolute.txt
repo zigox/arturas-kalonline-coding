@@ -1,0 +1,39 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\Kml.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Editor.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Syntax.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Syntax.Parsers.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Syntax.Schemes.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\Kml.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Editor.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Syntax.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Syntax.Parsers.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\QWhale.Syntax.Schemes.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\de\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\en\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\es\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\fr\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\ru\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\uk\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KmlEditor.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KmlEditor.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KmlEditor.AboutForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\DDay.Update.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\KML Editor.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\KML Editor.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\KML Editor.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\bin\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KML Editor.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KML Editor.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KML Editor.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\KmlEditor\obj\x86\Debug\KML Editor.pdb

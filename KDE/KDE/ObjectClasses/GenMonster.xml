@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<classmaps>
+  <classmap class="ArturasServer.KalOnline.DataEditor.ObjectClasses.GenMonster, KDE">
+    <node>
+      <value>genmonster</value>
+      <node>
+        <value>index</value>
+        <value type="System.Int32">Index</value>
+      </node>
+      <node>
+        <value>map</value>
+        <value type="System.Int32">Map</value>
+      </node>
+      <node>
+        <value>area</value>
+        <value type="System.Int32">Area</value>
+      </node>
+      <node>
+        <value>max</value>
+        <value type="System.Int32">Max</value>
+      </node>
+      <node>
+        <value>cycle</value>
+        <value type="System.Int32">Cycle</value>
+      </node>
+      <node>
+        <value>rect</value>
+        <value type="System.Int32">X1</value>
+        <value type="System.Int32">Y1</value>
+        <value type="System.Int32">X2</value>
+        <value type="System.Int32">Y2</value>
+      </node>
+    </node>
+  </classmap>
+</classmaps>

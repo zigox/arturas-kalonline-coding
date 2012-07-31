@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\bin\Debug\Kml Editor Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\bin\Debug\Kml Editor Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\Kml_Editor_Updater.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\Kml Editor Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\Kml Editor Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\Kml Editor Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\Kml Editor Updater.pdb

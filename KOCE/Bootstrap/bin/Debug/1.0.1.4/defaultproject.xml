@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<project>
+  <folder name="Server Root" directoryname="">
+    <editor filter="*" program="notepad.exe">{file_name}</editor>
+  </folder>
+  <folder name="Server Config" directoryname="">
+    <editor filter="*" program="notepad.exe">{file_name}</editor>
+  </folder>
+  <folder name="Client Config" directoryname="">
+    <editor filter="*" program="notepad.exe">{file_name}</editor>
+  </folder>
+  <folder name="Client E" directoryname="">
+    <editor filter="*" program="notepad.exe">{file_name}</editor>
+  </folder>
+  <buildgroup name="Start Server">
+    <event program="{folders[Server Root].path}\AuthServer - 1.exe" weight="1" delay="100"></event>
+    <event program="{folders[Server Root].path}\DBServer - 2.exe" weight="2" delay="100"></event>
+    <event program="{folders[Server Root].path}\MainServer Obsidian - 3.exe" weight="3" delay="100"></event>
+  </buildgroup>
+  <variable key="PK Password">mysecretpassword</variable>
+</project>

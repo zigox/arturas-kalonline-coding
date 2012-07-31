@@ -1,0 +1,81 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\KML Editor.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\KML Editor.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\KML Editor.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\Kml.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Editor.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Parsers.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Schemes.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\Kml.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Editor.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Parsers.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Schemes.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\de\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\en\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\es\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\fr\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\ru\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\uk\QWhale.Common.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KmlEditor.AboutForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KmlEditor.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KmlEditor.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KML Editor.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KML Editor.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KML Editor.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\obj\x86\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\Bootstrap\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\Bootstrap\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\KML Editor\bin\Debug\Bootstrap\KML Editor.exe
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\KML Editor.exe.config
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KML Editor.exe
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KML Editor.pdb
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\KML Editor.exe.manifest
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\KML Editor.application
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\KML Editor.exe
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\KML Editor.pdb
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\DDay.Update.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\DDay.Update.WPF.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Common.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Design.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Editor.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Parsers.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Schemes.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\Kml.pdb
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Common.xml
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Editor.xml
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.xml
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Parsers.xml
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\QWhale.Syntax.Schemes.xml
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\de\QWhale.Common.resources.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\en\QWhale.Common.resources.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\es\QWhale.Common.resources.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\fr\QWhale.Common.resources.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\ru\QWhale.Common.resources.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\uk\QWhale.Common.resources.dll
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KmlEditor.AboutForm.resources
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KmlEditor.MainForm.resources
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KmlEditor.Properties.Resources.resources
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\ResGen.read.1.tlog
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\ResGen.write.1.tlog
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KML Editor.TrustInfo.xml
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KML Editor.exe.manifest
+J:\arturas-kalonline-coding\KML Editor\KML Editor\obj\x86\Debug\KML Editor.application
+J:\arturas-kalonline-coding\KML Editor\KML Editor\bin\Debug\Kml.dll
