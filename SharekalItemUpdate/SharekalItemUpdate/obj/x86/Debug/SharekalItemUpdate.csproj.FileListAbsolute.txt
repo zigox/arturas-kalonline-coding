@@ -1,0 +1,17 @@
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\SharekalItemUpdate.exe
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\SharekalItemUpdate.pdb
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\Iesi.Collections.pdb
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\Iesi.Collections.xml
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\NHibernate.pdb
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\NHibernate.xml
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\SharekalItemUpdate.Properties.Resources.resources
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\SharekalItemUpdate.exe
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\SharekalItemUpdate.pdb
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\Database.cfg.xml
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\Kml.dll
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\bin\Debug\Kml.pdb
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\SharekalItemUpdate.EditShopItemsForm.resources
+J:\arturas-kalonline-coding\SharekalItemUpdate\SharekalItemUpdate\obj\x86\Debug\SharekalItemUpdate.UpdateItemsForm.resources

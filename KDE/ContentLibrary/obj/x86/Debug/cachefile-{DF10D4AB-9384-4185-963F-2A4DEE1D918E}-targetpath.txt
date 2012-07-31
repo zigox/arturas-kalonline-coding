@@ -1,0 +1,3 @@
+Content\hudFont.xnb
+Content\worldFont.xnb
+Content\region.xnb

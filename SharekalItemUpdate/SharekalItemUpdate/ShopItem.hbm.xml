@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="SharekalItemUpdate.ShopItem, SharekalItemUpdate" table="ShopItems">
+    <id name="SIID" column="SIID">
+      <generator class="native" />
+    </id>
+    <property name="Index" column="[Index]" type="Int32" />
+    <property name="Num" column="Num" type="Int32" />
+    <property name="Prefix" column="Prefix" type="Byte" />
+    <property name="Info" column="Info" type="Int32" />
+    
+    <property name="MaxEnd" column="MaxEnd" type="Byte" />
+    <property name="CurEnd" column="CurEnd" type="Byte" />
+    <property name="SetGem" column="SetGem" type="Byte" />
+    <property name="XAttack" column="XAttack" type="Byte" />
+    <property name="XMagic" column="XMagic" type="Byte" />
+    <property name="XDefense" column="XDefense" type="Byte" />
+    <property name="XHit" column="XHit" type="Byte" />
+    <property name="XDodge" column="XDodge" type="Byte" />
+    <property name="Protect" column="Protect" type="Byte" />
+    <property name="UpgrLevel" column="UpgrLevel" type="Byte" />
+    <property name="UpgrRate" column="UpgrRate" type="Byte" />
+
+    <property name="Cost" column="Cost" type="Int32" />
+    <property name="SID" column="SID" type="Int32" />
+    
+    <property name="Description" column="Description" type="String" length="250" />
+    <property name="Category" column="Category" type="String" length="50" />
+  </class>
+</hibernate-mapping>

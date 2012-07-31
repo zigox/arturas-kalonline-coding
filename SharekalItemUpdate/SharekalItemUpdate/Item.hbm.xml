@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="SharekalItemUpdate.Item, SharekalItemUpdate" table="Items">
+    <id name="Index" column="[Index]" length="11">
+      <generator class="assigned" />
+    </id>
+    <property name="Name" column="Name" type="String" length="50" />
+    <property name="Icon" column="Icon" type="String" length="11" />
+    <property name="Class" column="Class" type="String" length="11" />
+    <property name="SubClass" column="SubClass" type="String" length="11" />
+    <property name="Code1" column="Code1" type="Int32" length="11" />
+    <property name="Code2" column="Code2" type="Int32" length="11" />
+    <property name="Code3" column="Code3" type="Int32" length="11" />
+    <property name="Code4" column="Code4" type="Int32" length="11" />
+    <property name="LevelLimit" column="LevelLimit" type="Int32" length="11" />
+    <property name="ClassLimit" column="ClassLimit" type="Int32" length="11" />
+    <property name="Description" column="Description" type="String" length="100" />
+    <property name="Grade" column="Grade" type="Int32" length="11" />
+    <property name="Endurance" column="Endurance" type="Byte" />
+  </class>
+</hibernate-mapping>

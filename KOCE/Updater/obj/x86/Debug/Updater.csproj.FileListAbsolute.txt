@@ -1,0 +1,18 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\bin\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\bin\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\obj\x86\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Updater\obj\x86\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KOCE\Bootstrap\bin\Debug\Updater.pdb
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\Updater.exe
+J:\arturas-kalonline-coding\KOCE\Bootstrap\bin\Debug\Updater.pdb
+J:\arturas-kalonline-coding\KOCE\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KOCE\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+J:\arturas-kalonline-coding\KOCE\Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\KOCE\Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KOCE\Updater\obj\x86\Debug\Updater.exe
+J:\arturas-kalonline-coding\KOCE\Updater\obj\x86\Debug\Updater.pdb

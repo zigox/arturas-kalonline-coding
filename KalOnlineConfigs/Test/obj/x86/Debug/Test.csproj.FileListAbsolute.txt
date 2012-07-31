@@ -1,0 +1,9 @@
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\bin\Debug\Test.exe
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\bin\Debug\Test.pdb
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\bin\Debug\KalOnlineConfigs.dll
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\bin\Debug\KalOnlineConfigs.pdb
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\obj\x86\Debug\Test.exe
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\obj\x86\Debug\Test.pdb
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\bin\Debug\Kml.dll
+J:\arturas-kalonline-coding\KalOnlineConfigs\Test\bin\Debug\Kml.pdb

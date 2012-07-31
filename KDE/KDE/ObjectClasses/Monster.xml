@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<classmaps>
+  <classmap class="ArturasServer.KalOnline.DataEditor.ObjectClasses.MonsterQuest, KDE">
+    <node>
+      <value type="System.Int32">Value1</value>
+      <value type="System.Int32">Value2</value>
+      <value type="System.Int32">Value3</value>
+      <value type="System.Int32">Value4</value>
+    </node>
+  </classmap>
+  <classmap class="ArturasServer.KalOnline.DataEditor.ObjectClasses.MonsterSkill, KDE">
+    <node>
+      <value type="System.Int32">Value1</value>
+      <value type="System.Int32">Value2</value>
+    </node>
+  </classmap>
+  <classmap class="ArturasServer.KalOnline.DataEditor.ObjectClasses.Monster, KDE">
+    <node>
+      <value>monster</value>
+      <node>
+        <value>name</value>
+        <value type="System.Int32">NameID</value>
+      </node>
+      <node>
+        <value>index</value>
+        <value type="System.Int32">Index</value>
+      </node>
+      <node>
+        <value>country</value>
+        <value listtype="System.Int32">Countries</value>
+      </node>
+      <node>
+        <value>race</value>
+        <value type="System.Int32">Race</value>
+      </node>
+      <node>
+        <value>level</value>
+        <value type="System.Int32">Level</value>
+      </node>
+      <node>
+        <value>ai</value>
+        <value type="System.Int32">AI</value>
+      </node>
+      <node>
+        <value>range</value>
+        <value type="System.Int32">Range</value>
+      </node>
+      <node>
+        <value>sight</value>
+        <value type="System.Int32">SightMin</value>
+        <value type="System.Int32">SightMax</value>
+      </node>
+      <node>
+        <value>exp</value>
+        <value type="System.Int32">EXP</value>
+      </node>
+      <node>
+        <value>itemgroup</value>
+        <value listtype="System.Int32">ItemGroups</value>
+      </node>
+      <node>
+        <value>str</value>
+        <value type="System.Int32">Strength</value>
+      </node>
+      <node>
+        <value>hth</value>
+        <value type="System.Int32">Health</value>
+      </node>
+      <node>
+        <value>int</value>
+        <value type="System.Int32">Intelligence</value>
+      </node>
+      <node>
+        <value>wis</value>
+        <value type="System.Int32">Wisdom</value>
+      </node>
+      <node>
+        <value>dex</value>
+        <value type="System.Int32">Dexterity</value>
+      </node>
+      <node>
+        <value>hp</value>
+        <value type="System.Int32">HP</value>
+      </node>
+      <node>
+        <value>mp</value>
+        <value type="System.Int32">MP</value>
+      </node>
+      <node>
+        <value>aspeed</value>
+        <value type="System.Int32">AttackSpeed</value>
+      </node>
+      <node>
+        <value>hit</value>
+        <value type="System.Int32">OTP</value>
+      </node>
+      <node>
+        <value>dodge</value>
+        <value type="System.Int32">Dodge</value>
+      </node>
+      <node>
+        <value>attack</value>
+        <value type="System.Int32">Attack1</value>
+        <value type="System.Int32">Attack2</value>
+        <value type="System.Int32">Attack3</value>
+      </node>
+      <node>
+        <value>magic</value>
+        <value type="System.Int32">MagicMin</value>
+        <value type="System.Int32">MagicMax</value>
+      </node>
+      <node>
+        <value>defense</value>
+        <value type="System.Int32">DefenceMin</value>
+        <value type="System.Int32">DefenceMax</value>
+      </node>
+      <node>
+        <value>abosrb</value>
+        <value type="System.Int32">Absorb</value>
+      </node>
+      <node>
+        <value>mspeed</value>
+        <value type="System.Int32">WalkSpeed</value>
+        <value type="System.Int32">RunSpeed</value>
+      </node>
+      <node>
+        <value>resist</value>
+        <value type="System.Int32">Resist1</value>
+        <value type="System.Int32">Resist2</value>
+        <value type="System.Int32">Resist3</value>
+        <value type="System.Int32">Resist4</value>
+        <value type="System.Int32">Resist5</value>
+      </node>
+      <node>
+        <value>skillinfo</value>
+        <value type="System.Int32">SkillInfo1</value>
+        <value type="System.Int32">SkillInfo2</value>
+        <value type="System.Int32">SkillInfo3</value>
+        <value type="System.Int32">SkillInfo4</value>
+      </node>
+      <node>
+        <value>quest</value>
+        <node listtype="ArturasServer.KalOnline.DataEditor.ObjectClasses.MonsterQuest, KDE">Quests</node>
+      </node>
+      <node>
+        <value>skill</value>
+        <node listtype="ArturasServer.KalOnline.DataEditor.ObjectClasses.MonsterSkill, KDE">Skills</node>
+      </node>
+    </node>
+  </classmap>
+</classmaps>

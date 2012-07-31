@@ -1,0 +1,1017 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ClassMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Node>
+    <Values>
+      <Value>
+        <Name>item</Name>
+        <List>false</List>
+      </Value>
+    </Values>
+    <ChildNodes>
+      <Node>
+        <Values>
+          <Value>
+            <Name>name</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>NameID</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>index</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Index</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>image</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Image</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.String</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>action</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Action1</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+          <Value>
+            <Name>Action2</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>class</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>PrimaryClass</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>PrimaryClass</Type>
+          </Value>
+          <Value>
+            <Name>SecondaryClass</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>SecondaryClass</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>code</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Code1</Name>
+            <DefaultValue>1</DefaultValue>
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+          <Value>
+            <Name>Code2</Name>
+            <DefaultValue>1</DefaultValue>
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+          <Value>
+            <Name>Code3</Name>
+            <DefaultValue>1</DefaultValue>
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+          <Value>
+            <Name>Code4</Name>
+            <DefaultValue>1</DefaultValue>
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>country</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Countries</Name>
+            <DefaultValue />
+            <List>true</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>level</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Grade</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>wear</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Wear</Name>
+            <DefaultValue>False</DefaultValue>
+            <List>false</List>
+            <Type>System.Boolean</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>limit</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>ClassLimit</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.ClassLimit, KDE</Type>
+          </Value>
+          <Value>
+            <Name>LevelLimit</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>range</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Range</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>buy</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Buy</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>sell</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Sell</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>endurance</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Endurance</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>specialty</Name>
+            <List>false</List>
+          </Value>
+        </Values>
+        <ChildNodes>
+          <Node>
+            <Values>
+              <Value>
+                <Name>aspeed</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>AttackSpeed</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>attack</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Attack1</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Attack2</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Attack3</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>hit</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Hit</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>defense</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Defense</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>dodge</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Dodge</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>absorb</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Absorb</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>mspeed</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>WalkSpeed</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>RunSpeed</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>refresh</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>RefreshType</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>Refresh</Type>
+              </Value>
+              <Value>
+                <Name>RefreshAmount</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>resistfire</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>ResistFire</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>resistice</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>ResistIce</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>resistlitning</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>ResistLightning</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>magic</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Magic1</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Magic2</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Magic3</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>hth</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Health</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>hp</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Hp1</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Hp2</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>dex</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Dexterity</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>mp</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Mana Points</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>int</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Intelligence</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>wis</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Wisdom</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>resistcurse</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>ResistCurse</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>resistpalsy</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>ResistParalysis</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>teleport</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Teleport1</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Teleport2</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>str</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Strength</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>charming</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>CharmingType</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>Charming</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>repair</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Repair1</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Repair2</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>buff</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Buff1</Name>
+                <DefaultValue>5</DefaultValue>
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>BuffDuration</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Buff3</Name>
+                <DefaultValue>10</DefaultValue>
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>changeprefix</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>ChangePrefixType</Name>
+                <DefaultValue>ornament</DefaultValue>
+                <List>false</List>
+                <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.ChangePrefixType, KDE</Type>
+              </Value>
+              <Value>
+                <Name>Changeprefix2</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Changeprefix3</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Changeprefix4</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+              <Value>
+                <Name>Changeprefix5</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>protect</Name>
+                <List>false</List>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>revival</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>Revival</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+          <Node>
+            <Values>
+              <Value>
+                <Name>gstate</Name>
+                <List>false</List>
+              </Value>
+              <Value>
+                <Name>GState</Name>
+                <DefaultValue />
+                <List>false</List>
+                <Type>System.Int32</Type>
+              </Value>
+            </Values>
+            <ChildNodes />
+          </Node>
+        </ChildNodes>
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>plural</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Plural</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Boolean</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>desc</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>DescriptionID</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>use</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Use</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Boolean</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>cooltime</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Cooltime1</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+          <Value>
+            <Name>Cooltime2</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>effect</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Effect</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>maxprotect</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>MaxProtect</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>race</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Race</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>cocoon</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>PrimaryCocoon</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.PrimaryCocoon, KDE</Type>
+          </Value>
+          <Value>
+            <Name>SecondaryCocoon</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.SecondaryCocoon, KDE</Type>
+          </Value>
+          <Value>
+            <Name>TertiaryCocoon</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.TertiaryCocoon, KDE</Type>
+          </Value>
+          <Value>
+            <Name>QuaternaryCocoon</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.QuaternaryCocoon, KDE</Type>
+          </Value>
+          <Value>
+            <Name>QuinaryCocoon</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>ArturasServer.KalOnline.DataEditor.ObjectClasses.QuinaryCocoon, KDE</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>imageex</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>ImageEx1</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.String</Type>
+          </Value>
+          <Value>
+            <Name>ImageEx2</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.String</Type>
+          </Value>
+          <Value>
+            <Name>ImageEx3</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.String</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>pay</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Pay</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Boolean</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>stbuff</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>Stbuff1</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+          <Value>
+            <Name>Stbuff2</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Int32</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+      <Node>
+        <Values>
+          <Value>
+            <Name>warrelation</Name>
+            <List>false</List>
+          </Value>
+          <Value>
+            <Name>WarRelation</Name>
+            <DefaultValue />
+            <List>false</List>
+            <Type>System.Boolean</Type>
+          </Value>
+        </Values>
+        <ChildNodes />
+      </Node>
+    </ChildNodes>
+  </Node>
+  <ClassType>Unknown type.</ClassType>
+</ClassMap>

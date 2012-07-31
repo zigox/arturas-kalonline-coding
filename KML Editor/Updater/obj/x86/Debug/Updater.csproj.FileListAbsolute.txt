@@ -1,0 +1,32 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Updater\obj\x86\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Updater\obj\x86\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Updater\obj\x86\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Updater\obj\x86\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Updater\obj\x86\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\Updater.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\Updater.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\Updater.exe
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\Updater.pdb
+J:\arturas-kalonline-coding\KML Editor\Updater\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KML Editor\Updater\obj\x86\Debug\Updater.Properties.Resources.resources
+J:\arturas-kalonline-coding\KML Editor\Updater\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\KML Editor\Updater\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KML Editor\Updater\obj\x86\Debug\Updater.exe
+J:\arturas-kalonline-coding\KML Editor\Updater\obj\x86\Debug\Updater.pdb

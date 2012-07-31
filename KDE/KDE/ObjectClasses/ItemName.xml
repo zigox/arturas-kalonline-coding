@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<classmaps>
+  <classmap class="ArturasServer.KalOnline.DataEditor.ObjectClasses.ItemName, KDE">
+    <node>
+      <value>itemname</value>
+      <value type="System.Int32">Index</value>
+      <value type="System.String">Value</value>
+    </node>
+  </classmap>
+</classmaps>

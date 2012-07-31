@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{51802146-0233-43F4-B02A-6EE3BA6BBB09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ArturasServer.KalOnline.Kml</RootNamespace>
+    <AssemblyName>Kml</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharPosition.cs" />
+    <Compile Include="KmlValueCollection.cs" />
+    <Compile Include="Exceptions\UnopenedNodeException.cs" />
+    <Compile Include="Exceptions\InvalidKmlPathException.cs" />
+    <Compile Include="Exceptions\UnclosedNodeException.cs" />
+    <Compile Include="Exceptions\InvalidCharacterException.cs" />
+    <Compile Include="Exceptions\UnclosedStringException.cs" />
+    <Compile Include="Exceptions\InvalidKmlSyntaxException.cs" />
+    <Compile Include="KmlComment.cs" />
+    <Compile Include="KmlDocument.cs" />
+    <Compile Include="ObjectMapping\ClassMap.cs" />
+    <Compile Include="KmlNode.cs" />
+    <Compile Include="KmlNodeCollection.cs" />
+    <Compile Include="KmlNodeSelector.cs" />
+    <Compile Include="ObjectMapping\ValueCollection.cs" />
+    <Compile Include="ObjectMapping\Node.cs" />
+    <Compile Include="ObjectMapping\NodeCollection.cs" />
+    <Compile Include="ObjectMapping\ObjectMapper.cs" />
+    <Compile Include="ObjectMapping\Value.cs" />
+    <Compile Include="KmlStreamReader.cs" />
+    <Compile Include="KmlValue.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\ClassMapCreator.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

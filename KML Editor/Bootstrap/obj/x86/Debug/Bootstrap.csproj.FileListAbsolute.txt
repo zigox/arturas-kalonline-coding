@@ -1,0 +1,56 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\KML Editor.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\DDay.Update.WinForms.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\DDay.Update.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\DDay.Update.WinForms.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\bin\Debug\DDay.Update.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\obj\x86\Debug\Bootstrap.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\obj\x86\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Kml Editor Bootstrap\obj\x86\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\KML Editor.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\DDay.Update.WinForms.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\DDay.Update.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\DDay.Update.WinForms.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\bin\Debug\DDay.Update.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\obj\x86\Debug\Bootstrap.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\obj\x86\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KmlEditor\Bootstrap\obj\x86\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\KML Editor.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\DDay.Update.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\obj\x86\Debug\Bootstrap.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\obj\x86\Debug\KML Editor.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\obj\x86\Debug\KML Editor.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\DDay.Update.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\DDay.Update.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\KML Editor\Bootstrap\bin\Debug\DDay.Update.WPF.pdb
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\KML Editor.exe.config
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\KML Editor.exe
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\KML Editor.pdb
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\DDay.Update.pdb
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\DDay.Update.WPF.pdb
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\obj\x86\Debug\Bootstrap.Properties.Resources.resources
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\obj\x86\Debug\KML Editor.exe
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\obj\x86\Debug\KML Editor.pdb
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\DDay.Update.dll
+J:\arturas-kalonline-coding\KML Editor\Bootstrap\bin\Debug\DDay.Update.WPF.dll

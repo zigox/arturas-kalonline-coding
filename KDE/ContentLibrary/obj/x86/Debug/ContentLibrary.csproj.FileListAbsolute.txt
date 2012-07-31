@@ -1,0 +1,9 @@
+J:\arturas-kalonline-coding\KDE\ContentLibrary\bin\x86\Debug\ContentLibrary.dll
+J:\arturas-kalonline-coding\KDE\ContentLibrary\bin\x86\Debug\ContentLibrary.pdb
+J:\arturas-kalonline-coding\KDE\ContentLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\arturas-kalonline-coding\KDE\ContentLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\arturas-kalonline-coding\KDE\ContentLibrary\obj\x86\Debug\ContentLibrary.dll
+J:\arturas-kalonline-coding\KDE\ContentLibrary\obj\x86\Debug\ContentLibrary.pdb
+J:\arturas-kalonline-coding\KDE\ContentLibrary\bin\x86\Debug\Content\region.xnb
+J:\arturas-kalonline-coding\KDE\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb
+J:\arturas-kalonline-coding\KDE\ContentLibrary\bin\x86\Debug\Content\worldFont.xnb

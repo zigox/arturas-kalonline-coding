@@ -1,0 +1,43 @@
+﻿ActionScript (2.0) to use for flash.
+
+import flash.external.ExternalInterface;
+ExternalInterface.addCallback("setNoticeText", null, setNoticeText);
+function setNoticeText(val:String,val2:String):Void
+{
+	_root.notice_caption = val;
+    _root.notice_text = val2;
+	_root.notice_wrapper.gotoAndPlay(2);
+}
+
+ExternalInterface.addCallback("setStatusText", null, setStatusText);
+function setStatusText(val:String):Void
+{
+    _root.status_text = val;
+	_root.status_wrapper.gotoAndPlay(2);
+}
+
+ExternalInterface.addCallback("setVersionText", null, setVersionText);
+function setVersionText(val:String):Void
+{
+    _root.version_text = val;
+}
+
+ExternalInterface.addCallback("muteSound", null, muteSound);
+function muteSound():Void
+{
+	stopAllSounds();
+}
+
+_root.updating = false;
+
+ExternalInterface.addCallback("setUpdateProgress", null, setUpdateProgress);
+function setUpdateProgress(val:Number):Void
+{
+    _root.progress_text = val+"%";
+	_root.update_wrapper.update_window.progress_bar.bar._width = (598/100)*val;
+	if(updating == false)
+	{
+		_root.update_wrapper.gotoAndPlay(2);
+	}
+	updating = true;
+}

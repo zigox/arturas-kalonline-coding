@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+    <asmv1:assemblyIdentity version="1.0.4.0" name="KML Editor.exe" publicKeyToken="a437f9488efd18de" language="neutral" processorArchitecture="msil" type="win32" />
+    <description asmv2:iconFile="128_1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+    <application />
+    <entryPoint>
+        <assemblyIdentity name="KML Editor" version="1.0.4.0" language="neutral" processorArchitecture="msil" />
+        <commandLine file="KML Editor.exe" parameters="" />
+    </entryPoint>
+    <trustInfo>
+        <security>
+            <applicationRequestMinimum>
+                <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+                <defaultAssemblyRequest permissionSetReference="Custom" />
+            </applicationRequestMinimum>
+            <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+                <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+                <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+            </requestedPrivileges>
+        </security>
+    </trustInfo>
+    <dependency>
+        <dependentOS>
+            <osVersionInfo>
+                <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+            </osVersionInfo>
+        </dependentOS>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Prerequisite" allowDelayedBinding="true">
+            <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="DDay.Update.dll" size="77824">
+            <assemblyIdentity name="DDay.Update" version="0.72.1.0" publicKeyToken="2904083CB2E9C5F5" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>ppD36/mM5iiuNKhINBmSTExGyGA=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="DDay.Update.WPF.dll" size="35840">
+            <assemblyIdentity name="DDay.Update.WPF" version="0.72.1.0" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>T7BgXY1OOQB81XvQ1RG9W1jScgM=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="KML Editor.exe" size="489984">
+            <assemblyIdentity name="KML Editor" version="1.0.4.0" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>R8X8qlH7gk9sz5/AIAClrt6r/M0=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="Kml.dll" size="14848">
+            <assemblyIdentity name="Kml" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>DAhFOt5SASz9iJHzONI0VyeHOtg=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="QWhale.Common.dll" size="196608">
+            <assemblyIdentity name="QWhale.Common" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>cJmxvM42qNBno03lSs9j//mfKmY=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="de\QWhale.Common.resources.dll" size="19456">
+            <assemblyIdentity name="QWhale.Common.resources" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="de" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>WjNGrt2k578Xc7krT2U7XwmOFRA=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="en\QWhale.Common.resources.dll" size="18944">
+            <assemblyIdentity name="QWhale.Common.resources" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="en" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>vuFZfgVqdn/STtypclbpV621wls=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="es\QWhale.Common.resources.dll" size="19968">
+            <assemblyIdentity name="QWhale.Common.resources" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="es" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>gblvFcIDg4AgT5CrIkn6xsnzfpw=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="fr\QWhale.Common.resources.dll" size="19968">
+            <assemblyIdentity name="QWhale.Common.resources" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="fr" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>bea9aGAleAuSNQVmaRRarq30+SA=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="ru\QWhale.Common.resources.dll" size="32768">
+            <assemblyIdentity name="QWhale.Common.resources" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="ru" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>DYhxNeXCH6ohurNRlNXyvfG96tQ=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="uk\QWhale.Common.resources.dll" size="32768">
+            <assemblyIdentity name="QWhale.Common.resources" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="uk" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>f73X1rgd042RaQs/FP8VaQjerlU=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="QWhale.Design.dll" size="28672">
+            <assemblyIdentity name="QWhale.Design" version="1.61.3969.1095" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>/67noQvQIoBVj78bTZcG1WKh848=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="QWhale.Editor.dll" size="749568">
+            <assemblyIdentity name="QWhale.Editor" version="1.61.3969.1094" publicKeyToken="DA632FD1713DFF10" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>Ffue67bFDT+MzvizPdHw9U4UErY=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="QWhale.Syntax.dll" size="229376">
+            <assemblyIdentity name="QWhale.Syntax" version="1.61.3969.1093" publicKeyToken="DA632FD1713DFF10" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>u0n0d7JbnLUD5n6j4T2F7MRLE00=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="QWhale.Syntax.Parsers.dll" size="532480">
+            <assemblyIdentity name="QWhale.Syntax.Parsers" version="1.61.3969.1094" publicKeyToken="DA632FD1713DFF10" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>c2wkoB4l2O23wI1C9yH+8Z4U7Eg=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <dependency>
+        <dependentAssembly dependencyType="Install" allowDelayedBinding="true" codebase="QWhale.Syntax.Schemes.dll" size="290816">
+            <assemblyIdentity name="QWhale.Syntax.Schemes" version="1.61.3969.1095" publicKeyToken="DA632FD1713DFF10" language="neutral" processorArchitecture="msil" />
+            <hash>
+                <dsig:Transforms>
+                    <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+                </dsig:Transforms>
+                <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <dsig:DigestValue>UNnBU56SRCV1h99AJRdycKt7TTU=</dsig:DigestValue>
+            </hash>
+        </dependentAssembly>
+    </dependency>
+    <file name="128_1.ico" size="67646">
+        <hash>
+            <dsig:Transforms>
+                <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+            </dsig:Transforms>
+            <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+            <dsig:DigestValue>hue1LWsdRhr0qElXZMRVmqgvpkQ=</dsig:DigestValue>
+        </hash>
+    </file>
+    <file name="Bootstrap\DDay.Update.dll" size="77824">
+        <hash>
+            <dsig:Transforms>
+                <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+            </dsig:Transforms>
+            <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+            <dsig:DigestValue>ppD36/mM5iiuNKhINBmSTExGyGA=</dsig:DigestValue>
+        </hash>
+    </file>
+    <file name="Bootstrap\KML Editor.exe" size="76800">
+        <hash>
+            <dsig:Transforms>
+                <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+            </dsig:Transforms>
+            <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+            <dsig:DigestValue>wWxTcDeW8FpSQE/VAVKsaBcTPKA=</dsig:DigestValue>
+        </hash>
+    </file>
+    <file name="KML Editor.exe.config" size="144">
+        <hash>
+            <dsig:Transforms>
+                <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+            </dsig:Transforms>
+            <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+            <dsig:DigestValue>cpzNzlRjZspwKGLNlX6RAlU3880=</dsig:DigestValue>
+        </hash>
+    </file>
+    <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+        <application>
+            <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+            <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+            <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+        </application>
+    </compatibility>
+    <publisherIdentity name="CN=Arturas-PC\Admin" issuerKeyHash="4d7240b91d7b8a023f19b42fc7507f08a06bf839" />
+    <Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                    <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <DigestValue>QLlm6xgd6fE2S7/EtyuuBCJk22g=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>CvVsAU/bDYmRc8vJ2ClQKY7RGba0hgRsXo8aMVKun7i6Bi6bcg10wBxikF8ZJCVAnDXB7DmeiNsrVVmilS8lVIZUTKQlqVot7+ks+3bFCU3BtUECih+2aEla65xoJptbZR+EgUwpnfxiSg2jNzEQgllAlJUsHjVPhzBZHh5ztys=</SignatureValue>
+        <KeyInfo Id="StrongNameKeyInfo">
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>h+nOvvvlJzQshg4TNpDC0O3DJBhOOL5f4xiXQOXml4xpIIHTM8v5mkNI4r2bjT2TORMJyOooVJfZSgZ1N9RvVHJkLZjOlJP2Dq03CNGCzIriIgkrjJhT0bxjjuTarIg63qtexWidLMqFBhrtvfRwUwG+0YLrgA+RkN6koMtsqGM=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+            <msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata">
+                <r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode">
+                    <r:grant>
+                        <as:ManifestInformation Hash="68db642204ae2bb7c4bf4b36f1e91d18eb66b940" Description="" Url="">
+                            <as:assemblyIdentity version="1.0.4.0" name="KML Editor.exe" publicKeyToken="a437f9488efd18de" language="neutral" processorArchitecture="msil" type="win32" />
+                        </as:ManifestInformation>
+                        <as:SignedBy />
+                        <as:AuthenticodePublisher>
+                            <as:X509SubjectName>CN=Arturas-PC\Admin</as:X509SubjectName>
+                        </as:AuthenticodePublisher>
+                    </r:grant>
+                    <r:issuer>
+                        <Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+                            <SignedInfo>
+                                <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+                                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                                <Reference URI="">
+                                    <Transforms>
+                                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                                        <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+                                    </Transforms>
+                                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                                    <DigestValue>WiY+XMWar+A/dvCBPJeb4+B4BlE=</DigestValue>
+                                </Reference>
+                            </SignedInfo>
+                            <SignatureValue>Vy1P1pzQYXvSPMlMldNOrUAEgpAsLoWcPXkNlv00wAzc/XD2Jlp4HGus57pj9lSWsHOoquCRdxMhLXCxI346GHzc4QlfB5YgmmqOUxu7/z1CAoyD2Tphj0P0GQIIAy4yfyGuaBi2X+sGQ1aSHqp1LJ1NYuGwC075LLK3ZolJE2A=</SignatureValue>
+                            <KeyInfo>
+                                <KeyValue>
+                                    <RSAKeyValue>
+                                        <Modulus>h+nOvvvlJzQshg4TNpDC0O3DJBhOOL5f4xiXQOXml4xpIIHTM8v5mkNI4r2bjT2TORMJyOooVJfZSgZ1N9RvVHJkLZjOlJP2Dq03CNGCzIriIgkrjJhT0bxjjuTarIg63qtexWidLMqFBhrtvfRwUwG+0YLrgA+RkN6koMtsqGM=</Modulus>
+                                        <Exponent>AQAB</Exponent>
+                                    </RSAKeyValue>
+                                </KeyValue>
+                                <X509Data>
+                                    <X509Certificate>MIIB2TCCAUKgAwIBAgIQLyw50c7vP59BYyr40xB2FTANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAQQByAHQAdQByAGEAcwAtAFAAQwBcAEEAZABtAGkAbjAeFw0xMTA2MTEwODIzMzdaFw0xMjA2MTAxNDIzMzdaMCsxKTAnBgNVBAMeIABBAHIAdAB1AHIAYQBzAC0AUABDAFwAQQBkAG0AaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCH6c6+++UnNCyGDhM2kMLQ7cMkGE44vl/jGJdA5eaXjGkggdMzy/maQ0jivZuNPZM5EwnI6ihUl9lKBnU31G9UcmQtmM6Uk/YOrTcI0YLMiuIiCSuMmFPRvGOO5NqsiDreq17FaJ0syoUGGu299HBTAb7RguuAD5GQ3qSgy2yoYwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAAxsO+NNz/p4s/PtwgkCoon2isvnyFfjHje2fi9junr6B1Eln7Hv4lq8kNpyLIpTa1xQsPofaHyNPe6lWGDsJBiT7pgcWfYb2kH+6NLOJxhVuVZhd+AOFBzW6Y0/iWGfKNY5GmSZxmiLgEd0AIjGSuL4u7KZXgQ43CGSXDxZeUOG</X509Certificate>
+                                </X509Data>
+                            </KeyInfo>
+                        </Signature>
+                    </r:issuer>
+                </r:license>
+            </msrel:RelData>
+        </KeyInfo>
+    </Signature>
+</asmv1:assembly>
